@@ -1,6 +1,6 @@
 # Cheat-engine
 开源项目作弊引擎
-汉化: 小莫
+汉化: lico
 CE 官网：https://www.cheatengine.org/
 汉化项目: https://github.com/3DMXM/Cheat-Engine-CN
 关于Cheat Engine
